@@ -16,11 +16,6 @@
 }
 
 .portfolio-item {
-    margin-bottom: 48px;
-}
-
-.portfolio-item:last-child {
-    margin-bottom: 0;
 }
 
 .portfolio-subtitle {
@@ -29,8 +24,6 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    margin-top: 20px;
-    margin-bottom: 4px;
 }
 
 .portfolio-text {
